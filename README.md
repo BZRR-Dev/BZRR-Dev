@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BZRR-Dev
+- 👀 I’m interested in development
+- 🌱 I’m currently learning C++
